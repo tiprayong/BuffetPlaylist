@@ -20,7 +20,7 @@ import java.util.Collections;
  */
 public class PlayYoutube extends YouTubeBaseActivity implements YouTubePlayer.OnInitializedListener {
 
-    final String YOUTUBE_API_KEY = "AIzaSyB-iYo9CZ0yb13a4esvDeVOZG2zdTqFf0I";
+    final String YOUTUBE_API_KEY = "APIkey";
 
     //windgets
     YouTubePlayerView youtubeView;
