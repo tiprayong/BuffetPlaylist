@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
     String keywords = "";
     String  order = "";
     final String  typePlaylist = "&type=video&maxResults=50&key=";
-    final String APIkey = "AIzaSyB-iYo9CZ0yb13a4esvDeVOZG2zdTqFf0I";
+    final String APIkey = "APIkey";
     String querySearch;
 
     // Widgets
